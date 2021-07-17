@@ -11,8 +11,8 @@ done
 
 
 # Print Arguments
-# echo "directory_path: $directory_path"
-# echo "slide_duration: $slide_duration"
+echo "directory_path: $directory_path"
+echo "slide_duration: $slide_duration"
 
 cd $directory_path
 mkdir remuxed
